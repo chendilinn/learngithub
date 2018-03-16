@@ -1,4 +1,4 @@
-srcdir = ./src/
+srcdir = ./src/ #srcdir
 cc = gcc -Wall
 target = arptool
 src = $(srcdir)*.*

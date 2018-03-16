@@ -5,4 +5,4 @@
     cat /sys/class/net/eth0/mtu
 
 更改;
-    echo "16384" > /sys/class/net/eth0/mtu
+    echo "16384" > /sys/class/net/eth0/mtu hello
